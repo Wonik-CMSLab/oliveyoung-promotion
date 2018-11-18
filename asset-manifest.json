@@ -1,7 +1,7 @@
 {
   "main.css": "/oliveyoung-promotion/static/css/main.d539b61c.chunk.css",
-  "main.js": "/oliveyoung-promotion/static/js/main.7e49f16f.chunk.js",
-  "main.js.map": "/oliveyoung-promotion/static/js/main.7e49f16f.chunk.js.map",
+  "main.js": "/oliveyoung-promotion/static/js/main.975f59d5.chunk.js",
+  "main.js.map": "/oliveyoung-promotion/static/js/main.975f59d5.chunk.js.map",
   "static/css/1.29fea2c8.chunk.css": "/oliveyoung-promotion/static/css/1.29fea2c8.chunk.css",
   "static/js/1.b51c5b19.chunk.js": "/oliveyoung-promotion/static/js/1.b51c5b19.chunk.js",
   "static/js/1.b51c5b19.chunk.js.map": "/oliveyoung-promotion/static/js/1.b51c5b19.chunk.js.map",
@@ -19,6 +19,6 @@
   "static/css/main.d539b61c.chunk.css.map": "/oliveyoung-promotion/static/css/main.d539b61c.chunk.css.map",
   "static/css/1.29fea2c8.chunk.css.map": "/oliveyoung-promotion/static/css/1.29fea2c8.chunk.css.map",
   "index.html": "/oliveyoung-promotion/index.html",
-  "precache-manifest.1803e19969ee2236a8cc7459cc59ce1a.js": "/oliveyoung-promotion/precache-manifest.1803e19969ee2236a8cc7459cc59ce1a.js",
+  "precache-manifest.9cfe6553352c8a4adaaac570152cdad8.js": "/oliveyoung-promotion/precache-manifest.9cfe6553352c8a4adaaac570152cdad8.js",
   "service-worker.js": "/oliveyoung-promotion/service-worker.js"
 }
