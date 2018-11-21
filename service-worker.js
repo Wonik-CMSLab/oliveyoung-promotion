@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oliveyoung-promotion/precache-manifest.0f80e3e9e0b5da3f63cccf3a46cbc46c.js"
+  "/oliveyoung-promotion/precache-manifest.bfa3ed843907103130d3961e103f54cc.js"
 );
 
 workbox.clientsClaim();
