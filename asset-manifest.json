@@ -1,13 +1,13 @@
 {
   "main.css": "/oliveyoung-promotion/static/css/main.7794e20d.chunk.css",
-  "main.js": "/oliveyoung-promotion/static/js/main.93dce6a3.chunk.js",
-  "main.js.map": "/oliveyoung-promotion/static/js/main.93dce6a3.chunk.js.map",
+  "main.js": "/oliveyoung-promotion/static/js/main.9f5499d9.chunk.js",
+  "main.js.map": "/oliveyoung-promotion/static/js/main.9f5499d9.chunk.js.map",
   "static/css/1.1fdf5c78.chunk.css": "/oliveyoung-promotion/static/css/1.1fdf5c78.chunk.css",
   "static/js/1.0e8ec040.chunk.js": "/oliveyoung-promotion/static/js/1.0e8ec040.chunk.js",
   "static/js/1.0e8ec040.chunk.js.map": "/oliveyoung-promotion/static/js/1.0e8ec040.chunk.js.map",
   "runtime~main.js": "/oliveyoung-promotion/static/js/runtime~main.6a2d0ca5.js",
   "runtime~main.js.map": "/oliveyoung-promotion/static/js/runtime~main.6a2d0ca5.js.map",
-  "static/media/semantic.min.css": "/oliveyoung-promotion/static/media/brand-icons.a046592b.woff",
+  "static/media/semantic.min.css": "/oliveyoung-promotion/static/media/brand-icons.a1a749e8.svg",
   "static/media/logo.png": "/oliveyoung-promotion/static/media/logo.e262ddde.png",
   "static/media/emblem.png": "/oliveyoung-promotion/static/media/emblem.0a1944c0.png",
   "static/media/cure.png": "/oliveyoung-promotion/static/media/cure.a9b63e21.png",
@@ -20,6 +20,6 @@
   "static/css/main.7794e20d.chunk.css.map": "/oliveyoung-promotion/static/css/main.7794e20d.chunk.css.map",
   "static/css/1.1fdf5c78.chunk.css.map": "/oliveyoung-promotion/static/css/1.1fdf5c78.chunk.css.map",
   "index.html": "/oliveyoung-promotion/index.html",
-  "precache-manifest.a0c99af5ac4c13192b4557d3ac88e944.js": "/oliveyoung-promotion/precache-manifest.a0c99af5ac4c13192b4557d3ac88e944.js",
+  "precache-manifest.18c1da9c3149e9941912d689bd902de4.js": "/oliveyoung-promotion/precache-manifest.18c1da9c3149e9941912d689bd902de4.js",
   "service-worker.js": "/oliveyoung-promotion/service-worker.js"
 }
