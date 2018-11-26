@@ -1,7 +1,7 @@
 {
   "main.css": "/oliveyoung-promotion/static/css/main.7794e20d.chunk.css",
-  "main.js": "/oliveyoung-promotion/static/js/main.9f5499d9.chunk.js",
-  "main.js.map": "/oliveyoung-promotion/static/js/main.9f5499d9.chunk.js.map",
+  "main.js": "/oliveyoung-promotion/static/js/main.c5a522ae.chunk.js",
+  "main.js.map": "/oliveyoung-promotion/static/js/main.c5a522ae.chunk.js.map",
   "static/css/1.1fdf5c78.chunk.css": "/oliveyoung-promotion/static/css/1.1fdf5c78.chunk.css",
   "static/js/1.0e8ec040.chunk.js": "/oliveyoung-promotion/static/js/1.0e8ec040.chunk.js",
   "static/js/1.0e8ec040.chunk.js.map": "/oliveyoung-promotion/static/js/1.0e8ec040.chunk.js.map",
@@ -17,9 +17,9 @@
   "static/media/clear.png": "/oliveyoung-promotion/static/media/clear.a99308d8.png",
   "static/media/insta_background.png": "/oliveyoung-promotion/static/media/insta_background.2a737fce.png",
   "static/media/info_background.png": "/oliveyoung-promotion/static/media/info_background.736f8c11.png",
-  "static/css/main.7794e20d.chunk.css.map": "/oliveyoung-promotion/static/css/main.7794e20d.chunk.css.map",
   "static/css/1.1fdf5c78.chunk.css.map": "/oliveyoung-promotion/static/css/1.1fdf5c78.chunk.css.map",
+  "static/css/main.7794e20d.chunk.css.map": "/oliveyoung-promotion/static/css/main.7794e20d.chunk.css.map",
   "index.html": "/oliveyoung-promotion/index.html",
-  "precache-manifest.18c1da9c3149e9941912d689bd902de4.js": "/oliveyoung-promotion/precache-manifest.18c1da9c3149e9941912d689bd902de4.js",
+  "precache-manifest.fefd57a05cc9b0a85b140f16f6ebb999.js": "/oliveyoung-promotion/precache-manifest.fefd57a05cc9b0a85b140f16f6ebb999.js",
   "service-worker.js": "/oliveyoung-promotion/service-worker.js"
 }
