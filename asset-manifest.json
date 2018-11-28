@@ -1,13 +1,13 @@
 {
   "main.css": "/oliveyoung-promotion/static/css/main.8cd7f6c3.chunk.css",
-  "main.js": "/oliveyoung-promotion/static/js/main.c50b937e.chunk.js",
-  "main.js.map": "/oliveyoung-promotion/static/js/main.c50b937e.chunk.js.map",
+  "main.js": "/oliveyoung-promotion/static/js/main.7b1ce4c5.chunk.js",
+  "main.js.map": "/oliveyoung-promotion/static/js/main.7b1ce4c5.chunk.js.map",
   "static/css/1.46569717.chunk.css": "/oliveyoung-promotion/static/css/1.46569717.chunk.css",
   "static/js/1.a3846f33.chunk.js": "/oliveyoung-promotion/static/js/1.a3846f33.chunk.js",
   "static/js/1.a3846f33.chunk.js.map": "/oliveyoung-promotion/static/js/1.a3846f33.chunk.js.map",
   "runtime~main.js": "/oliveyoung-promotion/static/js/runtime~main.6a2d0ca5.js",
   "runtime~main.js.map": "/oliveyoung-promotion/static/js/runtime~main.6a2d0ca5.js.map",
-  "static/media/semantic.min.css": "/oliveyoung-promotion/static/media/flags.9c74e172.png",
+  "static/media/semantic.min.css": "/oliveyoung-promotion/static/media/brand-icons.a1a749e8.svg",
   "static/media/logo.png": "/oliveyoung-promotion/static/media/logo.e262ddde.png",
   "static/media/emblem.png": "/oliveyoung-promotion/static/media/emblem.0a1944c0.png",
   "static/media/cure.png": "/oliveyoung-promotion/static/media/cure.a9b63e21.png",
@@ -20,9 +20,9 @@
   "static/media/clear.png": "/oliveyoung-promotion/static/media/clear.a99308d8.png",
   "static/media/insta_background.png": "/oliveyoung-promotion/static/media/insta_background.2a737fce.png",
   "static/media/info_background.png": "/oliveyoung-promotion/static/media/info_background.736f8c11.png",
-  "static/css/1.46569717.chunk.css.map": "/oliveyoung-promotion/static/css/1.46569717.chunk.css.map",
   "static/css/main.8cd7f6c3.chunk.css.map": "/oliveyoung-promotion/static/css/main.8cd7f6c3.chunk.css.map",
+  "static/css/1.46569717.chunk.css.map": "/oliveyoung-promotion/static/css/1.46569717.chunk.css.map",
   "index.html": "/oliveyoung-promotion/index.html",
-  "precache-manifest.b528a75ed2897f3fdff9f427db2ada66.js": "/oliveyoung-promotion/precache-manifest.b528a75ed2897f3fdff9f427db2ada66.js",
+  "precache-manifest.d249373ec37f302f1fb0d56003745bfa.js": "/oliveyoung-promotion/precache-manifest.d249373ec37f302f1fb0d56003745bfa.js",
   "service-worker.js": "/oliveyoung-promotion/service-worker.js"
 }
