@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/oliveyoung-promotion/static/media/icons.8e3c7f55.eot"
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/oliveyoung-promotion/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "7b1ce4c53b2a86a05bbf",
+    "revision": "04edc508aacf2ea14fb2",
     "url": "/oliveyoung-promotion/static/css/main.8cd7f6c3.chunk.css"
   },
   {
@@ -68,8 +68,16 @@ self.__precacheManifest = [
     "url": "/oliveyoung-promotion/static/media/insta_background.2a737fce.png"
   },
   {
-    "revision": "7b1ce4c53b2a86a05bbf",
-    "url": "/oliveyoung-promotion/static/js/main.7b1ce4c5.chunk.js"
+    "revision": "04edc508aacf2ea14fb2",
+    "url": "/oliveyoung-promotion/static/js/main.04edc508.chunk.js"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/oliveyoung-promotion/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/oliveyoung-promotion/static/media/icons.0ab54153.woff2"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -80,28 +88,20 @@ self.__precacheManifest = [
     "url": "/oliveyoung-promotion/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/oliveyoung-promotion/static/media/icons.0ab54153.woff2"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/oliveyoung-promotion/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/oliveyoung-promotion/static/media/outline-icons.701ae6ab.eot"
   },
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/oliveyoung-promotion/static/media/outline-icons.ef60a4f6.woff"
-  },
-  {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/oliveyoung-promotion/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "962a1bf31c081691065fe333d9fa8105",
     "url": "/oliveyoung-promotion/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
-    "url": "/oliveyoung-promotion/static/media/outline-icons.82f60bd0.svg"
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/oliveyoung-promotion/static/media/outline-icons.ef60a4f6.woff"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -116,6 +116,10 @@ self.__precacheManifest = [
     "url": "/oliveyoung-promotion/static/media/brand-icons.e8c322de.woff2"
   },
   {
+    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
+    "url": "/oliveyoung-promotion/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
     "revision": "a046592bac8f2fd96e994733faf3858c",
     "url": "/oliveyoung-promotion/static/media/brand-icons.a046592b.woff"
   },
@@ -124,15 +128,11 @@ self.__precacheManifest = [
     "url": "/oliveyoung-promotion/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/oliveyoung-promotion/static/media/flags.9c74e172.png"
-  },
-  {
     "revision": "a3846f33ba6aa3cf886b",
     "url": "/oliveyoung-promotion/static/css/1.46569717.chunk.css"
   },
   {
-    "revision": "10d0f409edd980a16812287b41f0a3fc",
+    "revision": "b9817556e31e7f6a584b2d558f046910",
     "url": "/oliveyoung-promotion/index.html"
   }
 ];
